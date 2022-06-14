@@ -12,3 +12,4 @@ ex) Netflix
 2. amazon music
 3. Dragon Quest 10
 4. 週刊少年ジャンプ定期購読
+5. youtube premium
