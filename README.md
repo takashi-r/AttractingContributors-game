@@ -10,3 +10,4 @@ Please add as in the following example. (以下の例のように追加して下
 ex) Netflix
 1. Abema
 2. amazon music
+3. Dragon Quest 10
