@@ -9,3 +9,4 @@ Please add any subscription services you subscribe to or would like to use!
 Please add as in the following example. (以下の例のように追加して下さい。）
 ex) Netflix
 Abema
+amazon music
